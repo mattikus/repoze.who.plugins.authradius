@@ -2,6 +2,11 @@
  CHANGES
 =========
 
+0.2.1 (2010-3-6)
+* Changed name to fit current repoze.who.plugins namespace
+* Changed from setuptools to distribute
+* Fixed setup.py file from continaing two dependency_links
+
 0.2 (2008-03-19)
 ================
 * Change name to conform to pam -> who (authentication)
