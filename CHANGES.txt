@@ -1,0 +1,12 @@
+=========
+ CHANGES
+=========
+
+0.2 (2008-03-19)
+================
+* Change name to conform to pam -> who (authentication)
+
+0.1 (2008-03-18)
+========================
+* Initial implementation by Chris Shenton and Chris McDonough
+  at PyCon 2008
